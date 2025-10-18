@@ -1,4 +1,5 @@
 #include "Simulador2D.h"
+using namespace std;
 
 void mostrarMenu() {
     cout << "\n===== MENÚ DE OPCIONES =====" << endl;
